@@ -1,0 +1,9 @@
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\bin\Debug\netstandard2.0\HtmlG.deps.json
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\bin\Debug\netstandard2.0\HtmlG.dll
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\bin\Debug\netstandard2.0\HtmlG.pdb
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.csprojResolveAssemblyReference.cache
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.csproj.CoreCompileInputs.cache
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.AssemblyInfoInputs.cache
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.AssemblyInfo.cs
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.dll
+C:\Users\thesk\Desktop\Projects\Personal\HtmlG\HtmlG\HtmlG\HtmlG\obj\Debug\netstandard2.0\HtmlG.pdb
